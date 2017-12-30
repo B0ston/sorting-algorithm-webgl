@@ -31,7 +31,6 @@ function cycle() {
     fixes++;
   } else {
     //if sorted in correct order, move along.
-
     if (correct != bars.length) {
       correct++;
     } else {
