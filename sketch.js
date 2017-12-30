@@ -35,6 +35,9 @@ function cycle() {
     if (correct != bars.length) {
       correct++;
     } else {
+      for (var c = 0; c < bars.length; c++) {
+        bars[c].fill = [0, 255, 0];
+      }
       return;
     }
     counter++;
