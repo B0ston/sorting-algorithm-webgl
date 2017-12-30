@@ -5,7 +5,7 @@ Code by: Daniel D.
 function Bar() {
   this.val = floor(random(20, height));
   this.width = width / 60;
-  this.fill = 255;
+  this.fill = [255, 255, 255];
   this.show = function() {
 
     //rect(bars.indexOf(this) * this.width - (width / 2), height - this.val - (height / 2), this.width, this.val);
