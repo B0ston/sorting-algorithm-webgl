@@ -1,5 +1,5 @@
 /*
-Code by: Daniel D. (Github: B0ston https://github.com/B0ston)
+Code by: B0ston https://github.com/B0ston)
 12/28/17
 */
 function Bar() {
