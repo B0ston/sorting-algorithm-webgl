@@ -1,5 +1,5 @@
 /*
-Code by: b0ston https://github.com/B0ston
+Code by: proxy https://github.com/Proxy900)
 12/28/17
 */
 var bars = [];
